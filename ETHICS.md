@@ -1,4 +1,4 @@
-# Ethical Considerations for Web Scraping
+# Ethical Considerations for Web Scraping from GoodReads
 
 This document outlines the ethical considerations taken into account for the Goodreads Quote Scraper project.
 
