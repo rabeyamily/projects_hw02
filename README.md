@@ -24,7 +24,7 @@ This project is a Python script that scrapes inspirational quotes from Goodreads
    
 ## Usage
 
-Run the script:
+Run the script: python main.py
 
 ## python main.py
 
