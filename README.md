@@ -22,11 +22,11 @@ This project is a Python script that scrapes inspirational quotes from Goodreads
 
 2. Install the required packages:
 
-python main.py
+## python main.py
 
 The script will scrape quotes from Goodreads if the CSV file doesn't exist. Then, it will present a menu with the following options:
 
-1. Get random quote
+1. Get a random quote
 2. Search quotes
 3. Exit
 
@@ -42,4 +42,4 @@ The scraped quotes are stored in a file named `quotes.csv` in the same directory
 
 ## Note
 
-This script is for educational purposes only. Please be respectful of Goodreads' resources and terms of service when using this script.
+This script is for educational purposes only. When using it, please respect Goodreads' resources and terms of service.
