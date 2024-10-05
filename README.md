@@ -18,9 +18,13 @@ This project is a Python script that scrapes inspirational quotes from Goodreads
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository:git clone [repository link]
 
-2. Install the required packages:
+2. Install the required packages: pip install -r requirements.txt
+   
+## Usage
+
+Run the script:
 
 ## python main.py
 
